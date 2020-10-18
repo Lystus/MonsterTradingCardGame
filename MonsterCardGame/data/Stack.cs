@@ -1,4 +1,6 @@
-﻿namespace MonsterCardGame.Data
+﻿using System.Collections.Generic;
+
+namespace MonsterCardGame.Data
 {
     public class Stack
     {
