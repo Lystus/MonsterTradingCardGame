@@ -1,4 +1,4 @@
-﻿namespace MonsterCardGame.Data
+﻿namespace MonsterCardGame.Model
 {
     public class Deck
     {

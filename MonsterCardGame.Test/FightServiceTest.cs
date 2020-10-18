@@ -1,15 +1,14 @@
-using System;
-using Xunit;
+using FluentAssertions;
 using MonsterCardGame.Model;
+using Xunit;
 
 namespace MonsterCardGame.Test
 {
-    public class UnitTest1
+    public class FightServiceTest
     {
         [Fact]
-        public void Test1()
+        public void TestFight()
         {
-            
         }
     }
 }

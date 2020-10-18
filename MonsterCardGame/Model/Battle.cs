@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DefaultNamespace
+namespace MonsterCardGame.Model
 {
     public class Battle
     {
